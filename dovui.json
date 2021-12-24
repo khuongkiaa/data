@@ -1,5 +1,25 @@
 {
     "dovui": [
+{"success":"true","questions":"Một người bạn mượn bạn một món đồ nhỏ, nhưng có giá trị tinh thần lớn (ví dụ một cuốn sách do một người bạn ở nước ngoài tặng). Sau ít lâu, bạn đòi lại món đồ đó nhưng mãi mà bạn của bạn vẫn chưa đem trả.","a":"Bạn nói với người bạn ấy rằng món đồ đó rất quan trọng và tại sao bạn muốn lấy lại, và đề nghị bạn ấy phải đem trả ngay.","b":"Chấm hết tình bạn. Bạn không cần một người bạn không biết tôn trọng bạn và những cảm xúc của bạn.","c":"Bạn làm mặt lạnh cho đến khi người bạn kia trả lại món đồ.","d":"Bạn bỏ qua. Tình bạn quan trọng hơn những món đồ vật chất.","dapan":"Bạn nói với người bạn ấy rằng món đồ đó rất quan trọng và tại sao bạn muốn lấy lại, và đề nghị bạn ấy phải đem trả ngay.","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Ném cái gì xuống biển sẽ không bao giờ tìm thấy??","a":"Cây kim","b":"Hạt cát","c":"tinh trùng","d":"Panadol extra","dapan":"Panadol extra","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Ch'Amnesia' đi với 'Memory' thì 'Paralysis' đi với...?","a":"Disability","b":"Aimpairment","c":"Gun","d":"Limbs","dapan":"Aimpairment","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Tưởng tượng nhé, nếu bạn đến buổi tiệc, bạn đứng nói chuyện với một người khác phái và rồi thấy rằng người đó có vẻ không được thoải mái.","a":"Bạn cứ nghĩ mãi là hẳn phải có vấn đề gì đó với chính mình.","b":"Bạn cố hỏi chuyện để hiểu thêm về bạn ấy.","c":"Bạn kết luận rằng bạn ấy không có hứng thú, nên bạn bỏ đi nói chuyện với người khác.","d":"Bạn quyết định rằng lần sau sẽ rủ bạn ấy tham gia một hoạt động gì đó mà bạn ấy thích, dù bạn không thích cũng được","dapan":"Bạn cố hỏi chuyện để hiểu thêm về bạn ấy.","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Một người cho nước chảy vào bể chứa. Cứ mỗi phút, lượng nước trong bể lại tăng gấp đôi. Nước chảy trong một giờ thì đầy bể. Vậy nước chiếm nửa bể vào phút thứ mấy?","a":"Phút 29","b":"Phút 39","c":"Phút 49","d":"Phút 59","dapan":"59","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Bạn đang đi trong sân trường thì bị trượt chân, suýt nữa thì ngã dập mặt.","a":"Bạn đứng lên, cười phì, và đi tiếp.","b":"Bạn ngó quanh và lườm những người đang nhìn bạn.","c":"Bạn đỏ mặt vì ngượng, cúi gằm mặt, đi tiếp và hy vọng không ai để ý.","d":"Bạn cáu điên và thầm nguyền rủa.","dapan":"Bạn đứng lên, cười phì, và đi tiếp.","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Ai là người đầu tiên phát hiện Penicillin?","a":"Marie Curie","b":"Luis Pasteur","c":"Alexander Fleming","d":"Edward jenner","dapan":"Marie Curie","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"1\/2 của 2\/3 của 3\/4 của 4\/5 của 5\/6 của 6\/7 của 7\/8 của 8\/9 của 9\/10 của 1.000 là bao nhiêu?","a":"0","b":"1","c":"10","d":"100","dapan":"100","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Ở Việt Nam, một thằng mù và ba thằng điếc đi ăn phở, mỗi người ăn một tô. Mỗi tô phở là 10 ngàn đồng, hỏi ăn xong họ phải trả bao nhiêu tiền?","a":"20 ngàn đồng","b":"10 ngàn đồng","c":"30 ngàn đồng","d":"Free","dapan":"20 ngàn đồng","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Người đàn ông duy nhất trên thế giới có sữa là ai?","a":"ông thọ","b":"ông tổ","c":"ông già","d":"chị ông nâu nâu","dapan":"chị ông nâu nâu","author":"Lê Anh Trường"},
+
 {"success":"true","questions":"Vì một hiểu lầm, đứa bạn thân từ hồi mẫu giáo bỗng giận bạn và không thèm chơi với bạn nữa. Bạn rất buồn và:","a":"Ngồi nhà ủ rũ.","b":"Tìm những cách giải toả tích cực, như tập thể thao chẳng hạn, để khi nào bạn ấy đỡ giận thì sẽ nói chuyện bình tĩnh sau.","c":"Tìm ngay một nhóm bạn mới để chơi","d":"Tìm thật nhiều việc để làm, để khỏi phải nghĩ ngợi linh tinh.","dapan":"Tìm những cách giải toả tích cực, như tập thể thao chẳng hạn, để khi nào bạn ấy đỡ giận thì sẽ nói chuyện bình tĩnh sau.","author":"Lê Anh Trường"},
 
 {"success":"true","questions":"Nếu 'Khối lập phương' đi với 'Hình vuông, 'Hình vuông' đi với ...?","a":"Đường thẳng","b":"Máy bay","c":"Diện tích","d":"Góc","dapan":"Đường thẳng","author":"Lê Anh Trường"},
