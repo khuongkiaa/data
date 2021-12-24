@@ -1,0 +1,39 @@
+{
+    "dovui": [
+     {"success":"true","questions":"Vì một hiểu lầm, đứa bạn thân từ hồi mẫu giáo bỗng giận bạn và không thèm chơi với bạn nữa. Bạn rất buồn và:","a":"Ngồi nhà ủ rũ.","b":"Tìm những cách giải toả tích cực, như tập thể thao chẳng hạn, để khi nào bạn ấy đỡ giận thì sẽ nói chuyện bình tĩnh sau.","c":"Tìm ngay một nhóm bạn mới để chơi","d":"Tìm thật nhiều việc để làm, để khỏi phải nghĩ ngợi linh tinh.","dapan":"Tìm những cách giải toả tích cực, như tập thể thao chẳng hạn, để khi nào bạn ấy đỡ giận thì sẽ nói chuyện bình tĩnh sau.","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Nếu 'Khối lập phương' đi với 'Hình vuông, 'Hình vuông' đi với ...?","a":"Đường thẳng","b":"Máy bay","c":"Diện tích","d":"Góc","dapan":"Đường thẳng","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Nếu 'Khối lập phương' đi với 'Hình vuông, 'Hình vuông' đi với ...?","a":"Đường thẳng","b":"Máy bay","c":"Diện tích","d":"Góc","dapan":"Đường thẳng","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Một người cho nước chảy vào bể chứa. Cứ mỗi phút, lượng nước trong bể lại tăng gấp đôi. Nước chảy trong một giờ thì đầy bể. Vậy nước chiếm nửa bể vào phút thứ mấy?","a":"Phút 29","b":"Phút 39","c":"Phút 49","d":"Phút 59","dapan":"59","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Ở Việt Nam, một thằng mù và ba thằng điếc đi ăn phở, mỗi người ăn một tô. Mỗi tô phở là 10 ngàn đồng, hỏi ăn xong họ phải trả bao nhiêu tiền?","a":"20 ngàn đồng","b":"10 ngàn đồng","c":"30 ngàn đồng","d":"Free","dapan":"20 ngàn đồng","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Bạn tìm được một học bổng du học rất lớn, nhưng để giành được nó thì bạn cũng phải làm một bài luận rất khó","a":"Bạn rất lo lắng, và hy vọng sự lo lắng sẽ khiến mình làm cẩn thận hơn.","b":"Bạn để nó sang một bên, lúc nào tâm trạng thoải mái thì làm.","c":"Bạn dành cả tuần để lên kế hoạch làm bài luận, viết ra cẩn thận từng chi tiết và lặng lẽ không nói với ai.","d":"Bạn hít thở sâu, suy nghĩ kỹ để phác thảo ý tưởng trong đầu, ghi ra giấy, bàn bạc với một vài người mà bạn tin tưởng, rồi mới làm","dapan":"Bạn hít thở sâu, suy nghĩ kỹ để phác thảo ý tưởng trong đầu, ghi ra giấy, bàn bạc với một vài người mà bạn tin tưởng, rồi mới làm","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Một người cho nước chảy vào bể chứa. Cứ mỗi phút, lượng nước trong bể lại tăng gấp đôi. Nước chảy trong một giờ thì đầy bể. Vậy nước chiếm nửa bể vào phút thứ mấy?","a":"Phút 29","b":"Phút 39","c":"Phút 49","d":"Phút 59","dapan":"59","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Chọn từ khác nhất so với các từ còn lại?","a":"Pistol","b":"Sword","c":"Gun","d":"Revolver","dapan":"Revolver","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"3 con gà đẻ 3 quả trứng trong 3 ngày. Vậy trong 12 ngày, 12 con gà đẻ được bao nhiêu quả trứng?","a":"42","b":"44","c":"46","d":"48","dapan":"48","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"1 giọt nước cộng 1 giọt nước bằng mấy giọt nước?","a":"4","b":"3","c":"2","d":"1","dapan":"1","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Nằm giữa Thái Bình Dương là gì?","a":"Nước","b":"Cá","c":"Bình","d":"Ai biết","dapan":"Bình","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Một cậu bé thấy ngoài cổng làng có đám đông liền chạy lại xem, hóa ra có 2 người đang thách đố nhau, mỗi người nói ra 1 câu, nếu người kia không tin thì sẽ phải đưa người nói 5 đồng. Trong 2 người thì có 1 người rất thật thà nên bị thua còn kẻ vô lại kia lại thắng cuộc. Cậu bé thấy thế liền vào chơi hộ người thật thà. Theo bạn, cậu bé chỉ nói duy nhất câu gì?","a":"Tôi là người thật thà.","b":"Anh nợ tôi một triệu đồng.","c":"Tôi rất tỉnh và đẹp trai.","d":"Ông xấu quắc!","dapan":"Anh nợ tôi một triệu đồng.","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Bạn đang đi trong sân trường thì bị trượt chân, suýt nữa thì ngã dập mặt.","a":"Bạn đứng lên, cười phì, và đi tiếp.","b":"Bạn ngó quanh và lườm những người đang nhìn bạn.","c":"Bạn đỏ mặt vì ngượng, cúi gằm mặt, đi tiếp và hy vọng không ai để ý.","d":"Bạn cáu điên và thầm nguyền rủa.","dapan":"Bạn đứng lên, cười phì, và đi tiếp.","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Có bao nhiêu chấm trên hai con xúc xắc?","a":"30","b":"36","c":"38","d":"42","dapan":"42","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Who always drives his customers away?","a":"A teacher","b":"A doctor","c":"Flight engineer","d":"A taxi-driver","dapan":"A taxi-driver","author":"Lê Anh Trường"},
+
+{"success":"true","questions":"Người đàn ông duy nhất trên thế giới có sữa là ai?","a":"ông thọ","b":"ông tổ","c":"ông già","d":"chị ông nâu nâu","dapan":"chị ông nâu nâu","author":"Lê Anh Trường"}
+
+  
+
+
+    ]
+}
